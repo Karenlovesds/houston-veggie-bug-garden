@@ -1,28 +1,40 @@
 # Houston Veggie Bug Guide
 
-A field guide to the bugs that fight you for your vegetables in Houston — and how to win with Integrated Pest Management (IPM).
+Your veggies are getting eaten. Let's figure out who's doing it and fix it — together.
 
-Control advice follows Integrated Pest Management (IPM) and is based on verified sources: Texas A&M AgriLife Extension, UC IPM, Harris County Public Health, and other university extension programs. Each bug page lists its sources.
+This is a friendly field guide for Houston vegetable gardeners. Every bug on these pages lives here year-round (hello, humidity), and sooner or later everyone gets them. **Having bugs isn't a sign of a bad gardener — it's a sign of a garden.**
 
-## Why Houston matters
+You don't need to kill everything that moves. You just need to keep the damage small enough that you still get to eat your tomatoes. That's what Integrated Pest Management (IPM) really means: *look first, act smart, spray last.*
 
-- **Year-round pressure.** Mild winters mean many bugs (aphids, whiteflies, scale, fire ants) never fully die back.
-- **Fast lifecycles.** In summer heat, bugs like aphids and spider mites go egg-to-adult in under a week.
-- **Heat stress.** Drought + heat weaken plants exactly when pests surge.
+Everything here is based on real, verified sources — Texas A&M, UC IPM, Harris County Public Health, and other university extension programs. Each bug page shows exactly where its advice comes from.
 
-So in Houston the goal is usually **prevention + monitoring**, not elimination. You keep populations low enough to get a harvest.
+## New here? Start here
 
-## The IPM approach
+1. **Find your bug** — scroll the photos in the index below and match the damage.
+2. **Read its page** — what it is, what it's doing, and how to fix it, simplest thing first.
+3. **Breathe.** Most garden bugs are beatable without ever opening a spray bottle.
 
-1. **Identify first.** Misidentification is the #1 cause of wasted sprays.
-2. **Set a threshold.** A few bugs is not an emergency. Act when damage actually threatens the crop.
-3. **Monitor weekly.** Check leaf undersides. Patterns (yellow stippling = mites; shot holes = flea beetles) tell you who it is.
-4. **Prevent first.** Healthy plants, resistant varieties, rotation, clean beds, airflow.
-5. **Physical controls next.** Hand-pick, hose off, traps, row cover.
-6. **Biological controls next.** Lady beetles, lacewings, parasitic wasps eat pests for free. Never kill them with broad sprays.
-7. **Chemicals last, least-toxic first.** Soap, neem, oil, Bt before anything stronger. Follow the label — in Texas, the label is the law.
+## Why Houston is a bug paradise
 
-## The bug index
+- **Bugs don't take winters off.** Our mild winters mean aphids, whiteflies, scale, and fire ants never really leave.
+- **Everything reproduces fast.** In summer heat, aphids go from egg to adult in under a week.
+- **Heat is an accomplice.** Stressed plants are easier prey.
+
+So the Houston goal is **prevention + monitoring**, not a bug-free yard. A few bugs is normal — and mostly fine.
+
+## The friendly 7-step approach
+
+1. **Look first.** The #1 waste of spray is spraying the wrong bug. The photos below help.
+2. **Pick a threshold.** A few bugs is usually fine. Act when they're actually eating your harvest.
+3. **Check weekly.** Flip a leaf or two. Learn the patterns: yellow stippling = mites, tiny round holes = flea beetles.
+4. **Prevent before you react.** Healthy plants, resistant varieties, clean beds, crop rotation.
+5. **Try the free stuff first.** Hand-picking, hosing off, row covers, traps.
+6. **Let the helpers help.** Lady beetles, lacewings, and tiny wasps eat pests for free — don't spray them away.
+7. **Spray least-toxic, last.** Soap, neem, oil, Bt. And always read the label — it's the law in Texas.
+
+## Whose bug is this? (the photo index)
+
+Not sure who's eating your garden? Start with the picture, not the name. Each thumbnail links to its full page.
 
 | Photo | Bug | Attacks | Key damage | Houston timing | Entry |
 |---|---|---|---|---|---|---|
@@ -48,22 +60,23 @@ So in Houston the goal is usually **prevention + monitoring**, not elimination. 
 
 ## Photos
 
-- Every bug page carries a photo (in `images/bugs/`).
-- Every recommended product has a picture too — see the [product gallery](PRODUCTS.md).
-- Nearly all photos come from Wikimedia Commons under open licenses. See [image credits](images/CREDITS.md).
-- No free photo exists for every product yet (spinosad, kaolin clay, etc. have labeled placeholders) — take your own photo and drop it in.
+- Every bug page carries a photo, and so does every recommended product — see the [product gallery](PRODUCTS.md).
+- Most photos come from Wikimedia Commons under open licenses. See [image credits](images/CREDITS.md) for who made them.
+- Six products still have labeled placeholder spots — no free photo exists (yet!). If you have one of these bottles, snap your own picture and drop it in.
 
-## Adding a new bug
+## Want to help grow this guide?
 
-1. Copy the template: `cp bugs/_template.md bugs/new-bug-name.md`
-2. Fill it in.
-3. Add a row to the index table above.
-4. Only record control methods you found in a source you've read (extension pages first). Add the link.
-5. Offer a PR.
+1. Copy the template: `cp bugs/_template.md bugs/your-bug-name.md`
+2. Fill it in — what it is, what it does, and how to control it in Houston.
+3. Add a row to the index above.
+4. Only add control methods you found in a source you've actually read (university extension pages first) and link to it.
+5. Open a pull request.
 
-Every entry should answer: **what is it, what does it do, and how do I control it in my Houston yard?**
+Every entry answers the same three questions: **what is it, what does it do, and how do I deal with it in my Houston yard?**
 
-## Sources & further reading
+## Where this information comes from
+
+All advice is sourced from trusted university extension and public-health programs.
 
 - Texas A&M AgriLife Extension: https://agrilifeextension.tamu.edu/
 - Texas A&M Extension Entomology: https://extensionentomology.tamu.edu/
