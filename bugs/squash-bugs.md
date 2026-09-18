@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Adult squash bug](../images/bugs/squash-bugs.jpg)
+*Adult squash bug. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anasa_tristis,_adult.jpg) — Ilona Loser, CC BY-SA 4.0.*
+
 - Adults: flat, gray-brown, ~1.5 cm, with a narrow neck.
 - Nymphs: gray-green with spiky legs, often in groups on stems.
 - Eggs: shiny copper ovals in rows on leaf undersides.
@@ -45,8 +48,10 @@ Adults overwinter in debris and return in May. Eggs hatch in about 10 days. Mult
 
 ### Biological
 - Conserve predators and parasites — avoid broad-spectrum sprays (Refs: Clemson, UMN).
-
 ### Least-toxic products
+
+![Spinosad](../images/products/placeholder/spinosad.svg) *Spinosad — add your own product photo.*
+
 - Spinosad covers young nymphs — spray undersides, late in the day to protect bees (Refs: Clemson, UMN).
 
 ### Conventional (last resort)

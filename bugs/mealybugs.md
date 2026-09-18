@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Long-tailed mealybug](../images/bugs/mealybugs.jpg)
+*Mealybug with cottony wax. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pseudococcus_longispinus_3.jpg) — Juan Carlos Fonseca Mata, CC BY-SA 4.0.*
+
 - Small (2–4 mm) insects wrapped in white cottony wax.
 - Found at leaf joints, along stems, on leaf undersides.
 
@@ -35,16 +38,22 @@ Many species are all-female and don't need mating. One missed female = a new col
 ### Prevent
 - Inspect nursery stock before buying.
 - Don't overwater or overfeed — stress and soft growth attract them (Refs: TX A&M, LSU).
-
 ### Physical
+
+![70% isopropyl alcohol](../images/products/placeholder/isopropyl-alcohol.svg) *70% isopropyl alcohol — add your own product photo.*
+
 - Dab each bug and egg sac with 70% rubbing alcohol — it dissolves their wax and kills them. Repeat every 5–7 days (Ref: UC IPM).
 - Wipe off colonies; prune out hard-hit tips.
 
 ### Biological
 - Preserve predatory lady beetles and parasitic wasps.
 - Avoid broad-spectrum sprays (Refs: TX A&M, LSU).
-
 ### Least-toxic products
+
+![Neem oil](../images/products/neem-oil.jpg) *Neem oil. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neem%C3%B6l_als_nat%C3%BCrliches_Pflanzenschutzmittel.jpg), CC BY-SA 4.0.*
+
+![Insecticidal soap](../images/products/placeholder/insecticidal-soap.svg) *Insecticidal soap — add your own product photo.*
+
 - Horticultural oil, insecticidal soap, neem (Ref: UC IPM).
 
 ### Conventional (last resort)

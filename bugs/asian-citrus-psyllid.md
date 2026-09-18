@@ -10,6 +10,9 @@ The psyllid spreads citrus greening (Huanglongbing, HLB). There is **no cure** �
 
 ## Identification
 
+![Asian citrus psyllid adult](../images/bugs/asian-citrus-psyllid.jpg)
+*Asian citrus psyllid adult, showing the 45° wing posture. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Asian_Citrus_Psyllid_adult.jpg) — David Hall, public domain.*
+
 - Adult: tiny (~3 mm), mottled brown, holds wings in a 45° "tent" — the near-perfect ID.
 - Nymphs: flat, yellow-orange, with waxy fringe on leaf edges of new flush.
 
@@ -45,8 +48,10 @@ All citrus.
 
 ### Biological
 - Tamarixia radiata (parasitic wasp) controls them; avoid broad-spectrum sprays or you kill this helper (Ref: UC IPM).
-
 ### Least-toxic products
+
+![Horticultural oil](../images/products/placeholder/horticultural-oil.svg) *Horticultural oil — add your own product photo.*
+
 - Horticultural oil on the flush suppresses eggs and nymphs. Spray new growth; not during bloom (Ref: UC IPM).
 
 ### Conventional (last resort)

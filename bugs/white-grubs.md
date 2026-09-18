@@ -6,6 +6,9 @@
 
 ## Identification
 
+![White grub larva](../images/bugs/white-grubs.jpg)
+*C-shaped white grub larva. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Борозняк_(лярва_хруща_травневого)_01.jpg) — Сарапулов, CC BY 4.0.*
+
 - C-shaped white grubs (2–3 cm), brown head, six legs near the front.
 - Curl into a C when handled.
 - Adults: brown scarab beetles that buzz around porch lights in summer.
@@ -38,8 +41,10 @@ Adults lay eggs in soil after June mating flights. Grubs feed on roots July–Oc
 
 ### Physical
 - Water 1/4–1/2 inch the day before treatment, and water products in time (Ref: TX A&M).
-
 ### Biological
+
+![Beneficial nematodes](../images/products/placeholder/beneficial-nematodes.svg) *Beneficial nematodes — add your own product photo.*
+
 - Parasitic nematodes work — keep the soil moist and water them in well (Ref: TX A&M).
 - Milky spore is NOT shown to be effective against Texas turf grubs (Ref: TX A&M).
 

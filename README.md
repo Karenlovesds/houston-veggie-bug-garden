@@ -46,6 +46,13 @@ So in Houston the goal is usually **prevention + monitoring**, not elimination. 
 | Whiteflies | Tomatoes, brassicas, citrus | White cloud, honeydew, sooty mold | Year-round | [whiteflies](bugs/whiteflies.md) |
 | White grubs | Lawns | Brown turf that peels up like carpet | Aug–Sep | [white-grubs](bugs/white-grubs.md) |
 
+## Photos
+
+- Every bug page carries a photo (in `images/bugs/`).
+- Every recommended product has a picture too — see the [product gallery](PRODUCTS.md).
+- Nearly all photos come from Wikimedia Commons under open licenses. See [image credits](images/CREDITS.md).
+- No free photo exists for every product yet (spinosad, kaolin clay, etc. have labeled placeholders) — take your own photo and drop it in.
+
 ## Adding a new bug
 
 1. Copy the template: `cp bugs/_template.md bugs/new-bug-name.md`

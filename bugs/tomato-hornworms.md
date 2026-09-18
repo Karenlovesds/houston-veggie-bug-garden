@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Hornworm caterpillar](../images/bugs/tomato-hornworms.jpg)
+*Hornworm on a leaf (tobacco hornworm shown; tomato hornworm looks nearly identical). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manduca_sexta_caterpillar.jpg) — Macgeek13, CC BY-SA 4.0.*
+
 - Big green caterpillar, up to 10 cm, with a "horn" on the rear.
 - Curled along a stem, they look just like a leaf.
 - Adult = large sphinx/hawk moth, seen at dusk.
@@ -44,8 +47,10 @@ Overwinters as a pupa in the soil. Moths emerge in May–June and lay single egg
 
 ### Biological
 - Parasitic wasps: if the worm is covered in small white cocoons, leave it — it's already dead (Refs: UC IPM, UF).
-
 ### Least-toxic products
+
+![Bt products (e.g., Dipel)](../images/products/bt-bacillus-thuringiensis.jpg) *Bt products are sold as dusts or sprays (historical Dipel label shown). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1973._Abbott_Dipel_Bacillus_thuringiensis_(Bt)_biological_insecticide_label._Douglas-fir_tusscok_moth_control_test._(36362351863).jpg), public domain.*
+
 - Bt (Bacillus thuringiensis) works best on small caterpillars. Spray in the evening (Ref: UF).
 
 ### Conventional (last resort)

@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Hairy chinch bug](../images/bugs/chinch-bugs.jpg)
+*Hairy chinch bug — nearly identical in looks to the southern chinch bug of St. Augustine lawns. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hairy_Chinch_Bug_-_Blissus_leucopteru_(50594763067).jpg) — Christina Butler, CC BY 2.0.*
+
 - Adults: ~3–4 mm, black with white crossed wings.
 - Nymphs: orange/red with a light band.
 - They run fast through the thatch.

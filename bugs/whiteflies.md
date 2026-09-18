@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Whitefly colony under a leaf](../images/bugs/whiteflies.jpg)
+*Whiteflies under an eggplant leaf. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bemisia_tabaci_under_leaf_of_eggplant.jpg) — Wee Hong, CC BY-SA 4.0.*
+
 - Adults: tiny (<2 mm), pale, fly off in a white cloud when you shake the plant.
 - Immatures: flat scale-like disks stuck to leaf undersides.
 
@@ -46,8 +49,12 @@ Egg to adult in about 3 weeks in summer. All stages present year-round in mild w
 ### Biological
 - Parasitic wasps and lacewings help but won't stop a big outbreak.
 - Start early, at low populations (Refs: TX A&M, UC IPM).
-
 ### Least-toxic products
+
+![Neem oil](../images/products/neem-oil.jpg) *Neem oil. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neem%C3%B6l_als_nat%C3%BCrliches_Pflanzenschutzmittel.jpg), CC BY-SA 4.0.*
+
+![Insecticidal soap](../images/products/placeholder/insecticidal-soap.svg) *Insecticidal soap — add your own product photo.*
+
 - Insecticidal soap or horticultural/neem oil. Cover all undersides.
 - Repeat 3× spaced a week apart. Avoid overuse — resistance builds fast (Refs: TX A&M, UC IPM).
 

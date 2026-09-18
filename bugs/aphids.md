@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Aphid on a leaf](../images/bugs/aphids.jpg)
+*Aphid sucking a plant stem. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aphid_2007-1.jpg) — Alvesgaspar, CC BY-SA 3.0.*
+
 - Tiny (1–3 mm), soft-bodied, pear-shaped. Colors: green, yellow, black, pink.
 - Clumped on new growth and leaf undersides.
 
@@ -45,8 +48,12 @@ Reproduce without mating. Many generations per year. Mild winters mean they surv
 ### Biological
 - Parasitic wasps (look for "mummies" — dead brown aphids), lady beetles, lacewings.
 - Don't use broad-spectrum sprays, or you kill these helpers (Refs: TX A&M, UC IPM).
-
 ### Least-toxic products
+
+![Neem oil](../images/products/neem-oil.jpg) *Neem oil as a plant protectant. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neem%C3%B6l_als_nat%C3%BCrliches_Pflanzenschutzmittel.jpg), CC BY-SA 4.0.*
+
+![Insecticidal soap](../images/products/placeholder/insecticidal-soap.svg) *Insecticidal soap — add your own product photo.*
+
 - Insecticidal soap or neem/horticultural oil. Cover leaf undersides.
 - Repeat applications needed. Don't spray above 90°F (Refs: TX A&M, UC IPM).
 

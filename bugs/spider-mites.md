@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Two-spotted spider mites, magnified](../images/bugs/spider-mites.jpg)
+*Two-spotted spider mites (microscopic view). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_12_Tetranychus_urticae_Two_Spotted_Spider_Mite.jpg) — CSIRO, CC BY 3.0.*
+
 - Mites are ~0.4 mm — you mainly see the damage and webbing.
 - Tap a leaf over white paper: red/rust specks that crawl = mites.
 - Fine webs across stems and leaf veins.
@@ -45,8 +48,12 @@ Egg to adult in 5–7 days at 90°F. Mites are arachnids, not insects — most *
 ### Biological
 - Predatory mites, lacewings, lady beetles, minute pirate bugs.
 - Avoid broad-spectrum sprays, which trigger mite flare-ups (Refs: TX A&M, UC IPM).
-
 ### Least-toxic products
+
+![Insecticidal soap](../images/products/placeholder/insecticidal-soap.svg) *Insecticidal soap — add your own product photo.*
+
+![Neem oil](../images/products/neem-oil.jpg) *Neem/horticultural oil. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Neem%C3%B6l_als_nat%C3%BCrliches_Pflanzenschutzmittel.jpg), CC BY-SA 4.0.*
+
 - Insecticidal soap and horticultural/neem oil — must contact mites, cover undersides, repeat.
 - Don't spray water-stressed plants or above 90°F (Refs: TX A&M, UC IPM).
 

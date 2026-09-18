@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Black scale bumps on a stem](../images/bugs/scale-insects.jpg)
+*Scale bumps (black scale) on a stem. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Saissetia_oleae_338167960.jpg) — Dustin, CC BY 4.0.*
+
 - They look like motionless bumps on stems and leaves.
 - Armored scale: hard shell; flicks off leaving the leaf clean underneath.
 - Soft scale: rounded wax bumps; sticky when scraped (alive underneath).
@@ -44,8 +47,10 @@ Eggs hatch into tiny crawlers (the only mobile stage) — that's the spray targe
 ### Biological
 - Twice-stabbed lady beetles eat scale — spare them.
 - Manage ants; they protect scale and chase off the natural enemies (Refs: TX A&M, UC IPM).
-
 ### Least-toxic products
+
+![Horticultural oil](../images/products/placeholder/horticultural-oil.svg) *Horticultural oil — add your own product photo.*
+
 - Horticultural oil (dormant-season) and insecticidal soap. Coverage matters — soak the undersides (Refs: TX A&M, UC IPM).
 
 ### Conventional (last resort)

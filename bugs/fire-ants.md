@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Fire ant worker](../images/bugs/fire-ants.jpg)
+*Red imported fire ant worker. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_Imported_Fire_Ant_(Myrmicinae,_Solenopsis_invicta)_(30518448423).jpg) — Insects Unlocked, CC0.*
+
 - Reddish-brown ants 2–6 mm; workers come in different sizes.
 - Fresh dome-shaped dirt mounds after rain.
 - Sting = painful, burning sensation and a small blister-like pustule.
@@ -39,8 +42,10 @@ Suppression, not eradication. Fire ants re-invade; no permanent fix exists (Ref:
 ### The official Two-Step Method (TX A&M)
 1. Broadcast a fire-ant bait over the whole yard 1–2×/year, best late August–mid-October.
 2. A few weeks later, treat remaining nuisance mounds individually (drench, granule, bait, or dust) (Ref: TX A&M).
-
 ### Least-toxic products
+
+![Fire ant bait](../images/products/fire-ant-bait.jpg) *Fire ant bait used against S. invicta. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bait_used_against_S._invicta.jpg) — USDA APHIS, CC BY 3.0 US.*
+
 - Broadcast baits are the low-tox route. Fast-acting baits: spinosad, hydramethylnon, indoxacarb.
 - Slow-acting (longer-lasting) baits: abamectin, methoprene, pyriproxyfen (Ref: TX A&M).
 

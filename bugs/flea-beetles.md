@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Flea beetle on a leaf](../images/bugs/flea-beetles.jpg)
+*Flea beetle on a leaf. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Phyllotreta_cruciferae_(07).jpg) — Whitney Cranshaw, CSU/Bugwood, CC BY 3.0 US.*
+
 - Tiny (1.5–3 mm) beetles that jump like fleas when disturbed.
 - Shiny black, brown, or striped.
 
@@ -41,8 +44,10 @@ Adults overwinter in soil litter, come out hungry in April — right at transpla
 
 ### Biological
 - Tolerate light feeding on established plants; preserve predators (Ref: Clemson).
-
 ### Least-toxic products
+
+![Kaolin clay (Surround)](../images/products/placeholder/kaolin-clay.svg) *Kaolin clay coating (e.g., Surround) — add your own product photo.*
+
 - Kaolin clay, horticultural oil, or neem on young foliage (Refs: Clemson, UC IPM).
 
 ### Conventional (last resort)

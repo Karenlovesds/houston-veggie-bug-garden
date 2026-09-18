@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Southern green stink bug](../images/bugs/stink-bugs.jpg)
+*Southern green stink bug (green vegetable bug). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Green_vegetable_bug.(Nezara_viridula)_(11682705796).jpg) — Bernard Spragg, CC0.*
+
 - Shield-shaped, ~1.5 cm, smelly when disturbed.
 - Southern green stink bug: plain green.
 - Brown stink bug: brown with a fine stripe on the antennae.

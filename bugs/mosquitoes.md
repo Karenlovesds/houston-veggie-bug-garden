@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Aedes aegypti mosquito](../images/bugs/mosquitoes.jpg)
+*Aedes aegypti mosquito, the day-biting container breeder. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aedes_aegypti.jpg) — Muhammad Mahdi Karim, GFDL 1.2.*
+
 - Aedes aegypti: small, black-and-white markings, bites mid-day, breeds in any container of water.
 - Culex: brown, bites at dusk, breeds in drains, ditches, and still water.
 - Larvae ("wrigglers") hang at the water surface.
@@ -43,8 +46,12 @@ Remove standing water. Follow the three T's:
 - Larvicide "dunks" (Bt israelensis) in water you can't empty — bird baths, rain barrels.
 - Fans on the porch: mosquitoes are weak fliers.
 - Long sleeves and light-colored clothing outside (Ref: Harris County).
-
 ### Least-toxic products
+
+![Mosquito dunks / larvicide tablets](../images/products/mosquito-dunks.jpg) *Larvicide tablets (Bt israelensis) for standing water. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Larvizid_CULINEX_Tab_plus_2.jpg) — Claus Ableiter, CC BY-SA 3.0.*
+
+![DEET repellent](../images/products/deet-repellent.jpg) *DEET insect repellent. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Off_and_Cutter_DEET_Insect_Repellent_-_Bug_Spray_(27827388427).jpg) — Tony Webster, CC BY 2.0.*
+
 - EPA-registered repellents including DEET — safe and effective, even in pregnancy (Ref: Harris County).
 
 ### Conventional (last resort)

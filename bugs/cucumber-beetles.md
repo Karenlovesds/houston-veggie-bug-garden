@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Striped cucumber beetle](../images/bugs/cucumber-beetles.jpg)
+*Striped cucumber beetle. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Acalymma_vittatum_1323034.jpg) — Scott Bauer, USDA ARS, public domain.*
+
 - Striped: yellow-orange, three black stripes down the back, ~6 mm.
 - Spotted: green-yellow with 12 black dots.
 
@@ -41,8 +44,10 @@ Adults overwinter near last year's beds. Larvae feed on roots for a few weeks, t
 
 ### Biological
 - Predators and parasites help; mature plants tolerate a lot of feeding (Ref: UC IPM).
-
 ### Least-toxic products
+
+![Spinosad](../images/products/placeholder/spinosad.svg) *Spinosad — add your own product photo.*
+
 - Spinosad is labeled for cucumber beetles on cucurbits (Ref: Clemson).
 
 ### Conventional (last resort)

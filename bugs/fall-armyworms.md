@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Fall armyworm larva](../images/bugs/fall-armyworms.jpg)
+*Fall armyworm larva. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spodoptera_frugiperda_caterpillar01.jpg) — Frank Peairs, CSU/Bugwood, CC BY 3.0 US.*
+
 - Green/tan caterpillar with a dark inverted "Y" on the forehead, up to 4 cm.
 - Drops and thrashes when disturbed (balling up).
 
@@ -41,8 +44,10 @@ Moths migrate north from Mexico every summer on wind currents, reaching Houston 
 
 ### Biological
 - Birds (starlings) and braconid wasps eat them.
-
 ### Least-toxic products
+
+![Bt products (e.g., Dipel)](../images/products/bt-bacillus-thuringiensis.jpg) *Bt products (historical Dipel label shown). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1973._Abbott_Dipel_Bacillus_thuringiensis_(Bt)_biological_insecticide_label._Douglas-fir_tusscok_moth_control_test._(36362351863).jpg), public domain.*
+
 - Bt is effective on caterpillars and safe for beneficials. Spray in the evening; reapply after rain.
 
 ### Conventional (last resort)

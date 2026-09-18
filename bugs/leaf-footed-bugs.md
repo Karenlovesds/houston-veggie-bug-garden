@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Adult leaf-footed bug](../images/bugs/leaf-footed-bugs.jpg)
+*Adult leaf-footed bug. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leptoglossus_phyllopus.jpg) — Russ Ottens, CC BY 3.0 US.*
+
 - Elongate brown/cinnamon bug ~2 cm.
 - Key ID: flattened, leaf-shaped hind legs.
 - Nymphs: red-orange bodies on fruit.

@@ -6,6 +6,12 @@
 
 ## Identification
 
+![Cabbage looper caterpillar](../images/bugs/cabbage-loopers.jpg)
+*Cabbage looper larva. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cabbage_looper_caterpillar.jpg) — Lua Eva Blue, CC BY 3.0.*
+
+![Imported cabbageworm caterpillar](../images/bugs/cabbageworm.jpg)
+*Imported cabbageworm on a leaf with droppings. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pieris_rapae_caterpillar_and_excreta.jpg) — Downtowngal, CC BY-SA 3.0.*
+
 - Cabbage looper: light green caterpillar, smooth; moves by lifting its middle into a loop ("inchworm" style).
 - Imported cabbageworm: velvety green caterpillar; the larva of the common white butterfly with black spots.
 
@@ -43,8 +49,10 @@ In Houston the season flips: egg to caterpillar to moth butterfly happens all co
 ### Biological
 - Plant small-flowered herbs (dill, cilantro, alyssum) to attract parasitic wasps.
 - Avoid broad-spectrum sprays (Refs: Clemson, UC IPM).
-
 ### Least-toxic products
+
+![Bt products (e.g., Dipel)](../images/products/bt-bacillus-thuringiensis.jpg) *Bt products (historical Dipel label shown). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1973._Abbott_Dipel_Bacillus_thuringiensis_(Bt)_biological_insecticide_label._Douglas-fir_tusscok_moth_control_test._(36362351863).jpg), public domain.*
+
 - Bt is very effective on young worms and safe on natural enemies.
 - Spinosad is also accepted for organic gardens (Refs: Clemson, UC IPM).
 

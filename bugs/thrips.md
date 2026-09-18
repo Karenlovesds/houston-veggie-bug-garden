@@ -6,6 +6,9 @@
 
 ## Identification
 
+![Western flower thrips, magnified](../images/bugs/thrips.jpg)
+*Western flower thrips (magnified). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frankliniella_occidentalis_5364132-LGPT.jpg) — Frank Peairs, CSU/Bugwood, CC BY 3.0.*
+
 - Tiny (1–2 mm) straw-colored slivers that hop when disturbed.
 - Snap a leaf over white paper to see them.
 
@@ -45,8 +48,10 @@ Fast: egg to adult in 12–16 days in spring heat. Mostly female, no mating need
 ### Biological
 - Minute pirate bugs and predatory mites eat thrips.
 - Plant flowering alyssum, dill, cosmos near the beds (Refs: TX A&M, UC IPM).
-
 ### Least-toxic products
+
+![Spinosad](../images/products/placeholder/spinosad.svg) *Spinosad — add your own product photo.*
+
 - Spinosad is the best option; spray in the evening.
 - Most effective products need 2–3 sprays, 5–7 days apart.
 - Rotate products — thrips build resistance fast (Refs: TX A&M, UC IPM).
