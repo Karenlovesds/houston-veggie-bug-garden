@@ -8,6 +8,8 @@ You don't need to kill everything that moves. You just need to keep the damage s
 
 Everything here is based on real, verified sources — Texas A&M, UC IPM, Harris County Public Health, and other university extension programs. Each bug page shows exactly where its advice comes from.
 
+![A happy corner of my garden](images/my_garden.jpg)
+
 ## New here? Start here
 
 1. **Find your bug** — scroll the photos in the index below and match the damage.
