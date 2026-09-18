@@ -38,25 +38,25 @@ So the Houston goal is **prevention + monitoring**, not a bug-free yard. A few b
 
 Not sure who's eating your garden? Start with the picture, not the name. Each photo links to its full page — one bug per line.
 
-[![Aphids](images/bugs/thumbs/aphids.jpg)](bugs/aphids.md) Curled leaves, sticky honeydew
-[![Asian citrus psyllid](images/bugs/thumbs/asian-citrus-psyllid.jpg)](bugs/asian-citrus-psyllid.md) Vector of citrus greening (HLB) — deadly
-[![Cabbage loopers & worms](images/bugs/thumbs/cabbage-loopers.jpg)](bugs/cabbage-loopers.md) Ragged holes in leaves
-[![Chinch bugs](images/bugs/thumbs/chinch-bugs.jpg)](bugs/chinch-bugs.md) Straw-brown patches that spread
-[![Cucumber beetles](images/bugs/thumbs/cucumber-beetles.jpg)](bugs/cucumber-beetles.md) Chewed leaves, bacterial wilt
-[![Fall armyworms](images/bugs/thumbs/fall-armyworms.jpg)](bugs/fall-armyworms.md) Lawn clipped to soil in days
-[![Fire ants](images/bugs/thumbs/fire-ants.jpg)](bugs/fire-ants.md) Painful stings, mound-filled yard
-[![Flea beetles](images/bugs/thumbs/flea-beetles.jpg)](bugs/flea-beetles.md) Tiny round "shot" holes
-[![Leaf-footed bugs](images/bugs/thumbs/leaf-footed-bugs.jpg)](bugs/leaf-footed-bugs.md) Sunken spots on fruit
-[![Mealybugs](images/bugs/thumbs/mealybugs.jpg)](bugs/mealybugs.md) Cottony white clumps, sticky sap
-[![Mosquitoes](images/bugs/thumbs/mosquitoes.jpg)](bugs/mosquitoes.md) Itchy bites, disease risk
-[![Scale insects](images/bugs/thumbs/scale-insects.jpg)](bugs/scale-insects.md) Bumps on stems, sooty mold
-[![Spider mites](images/bugs/thumbs/spider-mites.jpg)](bugs/spider-mites.md) Bronze stippling, webbing
-[![Squash bugs](images/bugs/thumbs/squash-bugs.jpg)](bugs/squash-bugs.md) Wilted leaves, dead vines
-[![Stink bugs](images/bugs/thumbs/stink-bugs.jpg)](bugs/stink-bugs.md) Corky spots on fruit
-[![Thrips](images/bugs/thumbs/thrips.jpg)](bugs/thrips.md) Silver-streaked leaves
-[![Tomato hornworms](images/bugs/thumbs/tomato-hornworms.jpg)](bugs/tomato-hornworms.md) Stripped branches, big droppings
-[![Whiteflies](images/bugs/thumbs/whiteflies.jpg)](bugs/whiteflies.md) White cloud, honeydew, sooty mold
-[![White grubs](images/bugs/thumbs/white-grubs.jpg)](bugs/white-grubs.md) Brown turf that peels up like carpet
+[![Aphids](images/bugs/thumbs/aphids.jpg)](bugs/aphids.md)
+[![Asian citrus psyllid](images/bugs/thumbs/asian-citrus-psyllid.jpg)](bugs/asian-citrus-psyllid.md)
+[![Cabbage loopers & worms](images/bugs/thumbs/cabbage-loopers.jpg)](bugs/cabbage-loopers.md)
+[![Chinch bugs](images/bugs/thumbs/chinch-bugs.jpg)](bugs/chinch-bugs.md)
+[![Cucumber beetles](images/bugs/thumbs/cucumber-beetles.jpg)](bugs/cucumber-beetles.md)
+[![Fall armyworms](images/bugs/thumbs/fall-armyworms.jpg)](bugs/fall-armyworms.md)
+[![Fire ants](images/bugs/thumbs/fire-ants.jpg)](bugs/fire-ants.md)
+[![Flea beetles](images/bugs/thumbs/flea-beetles.jpg)](bugs/flea-beetles.md)
+[![Leaf-footed bugs](images/bugs/thumbs/leaf-footed-bugs.jpg)](bugs/leaf-footed-bugs.md)
+[![Mealybugs](images/bugs/thumbs/mealybugs.jpg)](bugs/mealybugs.md)
+[![Mosquitoes](images/bugs/thumbs/mosquitoes.jpg)](bugs/mosquitoes.md)
+[![Scale insects](images/bugs/thumbs/scale-insects.jpg)](bugs/scale-insects.md)
+[![Spider mites](images/bugs/thumbs/spider-mites.jpg)](bugs/spider-mites.md)
+[![Squash bugs](images/bugs/thumbs/squash-bugs.jpg)](bugs/squash-bugs.md)
+[![Stink bugs](images/bugs/thumbs/stink-bugs.jpg)](bugs/stink-bugs.md)
+[![Thrips](images/bugs/thumbs/thrips.jpg)](bugs/thrips.md)
+[![Tomato hornworms](images/bugs/thumbs/tomato-hornworms.jpg)](bugs/tomato-hornworms.md)
+[![Whiteflies](images/bugs/thumbs/whiteflies.jpg)](bugs/whiteflies.md)
+[![White grubs](images/bugs/thumbs/white-grubs.jpg)](bugs/white-grubs.md)
 
 ## Photos
 
