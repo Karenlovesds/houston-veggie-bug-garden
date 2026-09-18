@@ -1,6 +1,6 @@
-# All Bugs in My Garden
+# Houston Veggie Bug Guide
 
-A field guide to garden bugs in Houston, and how to keep them from eating the harvest.
+A field guide to the bugs that fight you for your vegetables in Houston — and how to win with Integrated Pest Management (IPM).
 
 Control advice follows Integrated Pest Management (IPM) and is based on verified sources: Texas A&M AgriLife Extension, UC IPM, Harris County Public Health, and other university extension programs. Each bug page lists its sources.
 
