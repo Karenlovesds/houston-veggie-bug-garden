@@ -1,4 +1,4 @@
-# Houston Bug Veg Garden
+# Houston Veggie Bug Garden
 
 Your veggies are getting eaten. Let's figure out who's doing it and fix it — together.
 
