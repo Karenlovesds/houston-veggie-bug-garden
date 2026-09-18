@@ -24,27 +24,27 @@ So in Houston the goal is usually **prevention + monitoring**, not elimination. 
 
 ## The bug index
 
-| Bug | Attacks | Key damage | Houston timing | Entry |
-|---|---|---|---|---|
-| Aphids | Almost everything | Curled leaves, sticky honeydew | Year-round, spikes spring/fall | [aphids](bugs/aphids.md) |
-| Asian citrus psyllid | Citrus | Vector of citrus greening (HLB) — deadly | Year-round | [asian-citrus-psyllid](bugs/asian-citrus-psyllid.md) |
-| Cabbage loopers & worms | Brassicas | Ragged holes in leaves | Fall–spring | [cabbage-loopers](bugs/cabbage-loopers.md) |
-| Chinch bugs | St. Augustine lawns | Straw-brown patches that spread | Summer heat | [chinch-bugs](bugs/chinch-bugs.md) |
-| Cucumber beetles | Cucurbits | Chewed leaves, bacterial wilt | Spring→fall | [cucumber-beetles](bugs/cucumber-beetles.md) |
-| Fall armyworms | Lawns, corn, veggies | Lawn clipped to soil in days | Aug–Nov | [fall-armyworms](bugs/fall-armyworms.md) |
-| Fire ants | People, young plants | Painful stings, mound-filled yard | Year-round | [fire-ants](bugs/fire-ants.md) |
-| Flea beetles | Nightshades, greens | Tiny round "shot" holes | Late spring–summer | [flea-beetles](bugs/flea-beetles.md) |
-| Leaf-footed bugs | Tomatoes, peppers | Sunken spots on fruit | Summer–fall | [leaf-footed-bugs](bugs/leaf-footed-bugs.md) |
-| Mealybugs | Houseplants, citrus | Cottony white clumps, sticky sap | Year-round | [mealybugs](bugs/mealybugs.md) |
-| Mosquitoes | People | Itchy bites, disease risk | March–Dec | [mosquitoes](bugs/mosquitoes.md) |
-| Scale insects | Citrus, ornamentals | Bumps on stems, sooty mold | Year-round | [scale-insects](bugs/scale-insects.md) |
-| Spider mites | Tomatoes, squash | Bronze stippling, webbing | Hot dry spells | [spider-mites](bugs/spider-mites.md) |
-| Squash bugs | Squash, pumpkins | Wilted leaves, dead vines | Spring→fall | [squash-bugs](bugs/squash-bugs.md) |
-| Stink bugs | Tomatoes, peppers | Corky spots on fruit | Year-round, peaks fall | [stink-bugs](bugs/stink-bugs.md) |
-| Thrips | Peppers, flowers | Silver-streaked leaves | Spring spikes | [thrips](bugs/thrips.md) |
-| Tomato hornworms | Tomatoes | Stripped branches, big droppings | Summer | [tomato-hornworms](bugs/tomato-hornworms.md) |
-| Whiteflies | Tomatoes, brassicas, citrus | White cloud, honeydew, sooty mold | Year-round | [whiteflies](bugs/whiteflies.md) |
-| White grubs | Lawns | Brown turf that peels up like carpet | Aug–Sep | [white-grubs](bugs/white-grubs.md) |
+| Photo | Bug | Attacks | Key damage | Houston timing | Entry |
+|---|---|---|---|---|---|---|
+| [<img src="images/bugs/aphids.jpg" width="70" alt="Aphids">](bugs/aphids.md) | Aphids | Almost everything | Curled leaves, sticky honeydew | Year-round, spikes spring/fall | [aphids](bugs/aphids.md) |
+| [<img src="images/bugs/asian-citrus-psyllid.jpg" width="70" alt="Asian citrus psyllid">](bugs/asian-citrus-psyllid.md) | Asian citrus psyllid | Citrus | Vector of citrus greening (HLB) — deadly | Year-round | [asian-citrus-psyllid](bugs/asian-citrus-psyllid.md) |
+| [<img src="images/bugs/cabbage-loopers.jpg" width="70" alt="Cabbage looper">](bugs/cabbage-loopers.md) | Cabbage loopers & worms | Brassicas | Ragged holes in leaves | Fall–spring | [cabbage-loopers](bugs/cabbage-loopers.md) |
+| [<img src="images/bugs/chinch-bugs.jpg" width="70" alt="Chinch bugs">](bugs/chinch-bugs.md) | Chinch bugs | St. Augustine lawns | Straw-brown patches that spread | Summer heat | [chinch-bugs](bugs/chinch-bugs.md) |
+| [<img src="images/bugs/cucumber-beetles.jpg" width="70" alt="Cucumber beetles">](bugs/cucumber-beetles.md) | Cucumber beetles | Cucurbits | Chewed leaves, bacterial wilt | Spring→fall | [cucumber-beetles](bugs/cucumber-beetles.md) |
+| [<img src="images/bugs/fall-armyworms.jpg" width="70" alt="Fall armyworms">](bugs/fall-armyworms.md) | Fall armyworms | Lawns, corn, veggies | Lawn clipped to soil in days | Aug–Nov | [fall-armyworms](bugs/fall-armyworms.md) |
+| [<img src="images/bugs/fire-ants.jpg" width="70" alt="Fire ants">](bugs/fire-ants.md) | Fire ants | People, young plants | Painful stings, mound-filled yard | Year-round | [fire-ants](bugs/fire-ants.md) |
+| [<img src="images/bugs/flea-beetles.jpg" width="70" alt="Flea beetles">](bugs/flea-beetles.md) | Flea beetles | Nightshades, greens | Tiny round "shot" holes | Late spring–summer | [flea-beetles](bugs/flea-beetles.md) |
+| [<img src="images/bugs/leaf-footed-bugs.jpg" width="70" alt="Leaf-footed bugs">](bugs/leaf-footed-bugs.md) | Leaf-footed bugs | Tomatoes, peppers | Sunken spots on fruit | Summer–fall | [leaf-footed-bugs](bugs/leaf-footed-bugs.md) |
+| [<img src="images/bugs/mealybugs.jpg" width="70" alt="Mealybugs">](bugs/mealybugs.md) | Mealybugs | Houseplants, citrus | Cottony white clumps, sticky sap | Year-round | [mealybugs](bugs/mealybugs.md) |
+| [<img src="images/bugs/mosquitoes.jpg" width="70" alt="Mosquitoes">](bugs/mosquitoes.md) | Mosquitoes | People | Itchy bites, disease risk | March–Dec | [mosquitoes](bugs/mosquitoes.md) |
+| [<img src="images/bugs/scale-insects.jpg" width="70" alt="Scale insects">](bugs/scale-insects.md) | Scale insects | Citrus, ornamentals | Bumps on stems, sooty mold | Year-round | [scale-insects](bugs/scale-insects.md) |
+| [<img src="images/bugs/spider-mites.jpg" width="70" alt="Spider mites">](bugs/spider-mites.md) | Spider mites | Tomatoes, squash | Bronze stippling, webbing | Hot dry spells | [spider-mites](bugs/spider-mites.md) |
+| [<img src="images/bugs/squash-bugs.jpg" width="70" alt="Squash bugs">](bugs/squash-bugs.md) | Squash bugs | Squash, pumpkins | Wilted leaves, dead vines | Spring→fall | [squash-bugs](bugs/squash-bugs.md) |
+| [<img src="images/bugs/stink-bugs.jpg" width="70" alt="Stink bugs">](bugs/stink-bugs.md) | Stink bugs | Tomatoes, peppers | Corky spots on fruit | Year-round, peaks fall | [stink-bugs](bugs/stink-bugs.md) |
+| [<img src="images/bugs/thrips.jpg" width="70" alt="Thrips">](bugs/thrips.md) | Thrips | Peppers, flowers | Silver-streaked leaves | Spring spikes | [thrips](bugs/thrips.md) |
+| [<img src="images/bugs/tomato-hornworms.jpg" width="70" alt="Tomato hornworms">](bugs/tomato-hornworms.md) | Tomato hornworms | Tomatoes | Stripped branches, big droppings | Summer | [tomato-hornworms](bugs/tomato-hornworms.md) |
+| [<img src="images/bugs/whiteflies.jpg" width="70" alt="Whiteflies">](bugs/whiteflies.md) | Whiteflies | Tomatoes, brassicas, citrus | White cloud, honeydew, sooty mold | Year-round | [whiteflies](bugs/whiteflies.md) |
+| [<img src="images/bugs/white-grubs.jpg" width="70" alt="White grubs">](bugs/white-grubs.md) | White grubs | Lawns | Brown turf that peels up like carpet | Aug–Sep | [white-grubs](bugs/white-grubs.md) |
 
 ## Photos
 
